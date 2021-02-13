@@ -1,4 +1,4 @@
-# Flight-tracker
+# Flight Tracker
 Windows app that let's you track current flight's and their location (Windows Forms .NET Framework 4.7.2).
 Firstly you gotta choose what countries flight's you want to gather then when you have selected the countries the flight will
 be gathered and the app will show them on the map.
