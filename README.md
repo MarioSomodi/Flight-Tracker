@@ -1,6 +1,6 @@
 # Flight Tracker
-Windows app that let's you track current flight's and their location (Windows Forms .NET Framework 4.7.2).
-Firstly you gotta choose what countries flight's you want to gather then when you have selected the countries the flight will
+Windows app that let's you track current flights and their locations (Windows Forms .NET Framework 4.7.2).
+Firstly you gotta choose what countries flights you want to gather then when you have selected the countries the flights will
 be gathered and the app will show them on the map.
 ## Things I learned
 * Working with Windows forms.
@@ -11,11 +11,11 @@ be gathered and the app will show them on the map.
   * Share information between forms.
 * REST API.
   * Connecting to the api and researching it.
-  * Geting data from the API in this case in a form of json.
+  * Geting data from the API in this case in a form of JSON.
   * Parsing that data so it can be used in the project.
   * Storing needed data from the API in a SQL DB.
 * SQL database CRUD.
-  * All data logic is in the Class Library not in the main windows forms app.
+  * All data logic is in the Class Library not in the main Windows forms app.
   * CRUD operations on the specific tables in the DB.
   * Repositories for each table so the code is organizied.
 ```
