@@ -27,5 +27,5 @@ be gathered and the app will show them on the map and inside a table view.
   * Repositories for each table so the code is seperated and structured.
 ```
 REST API used in this project: https://opensky-network.org/api/states/all
-REST API's docs : https://opensky-network.org/apidoc/rest.html
+REST API's docs : [Opensky network docs](https://openskynetwork.github.io/opensky-api/rest.html#)
 ```
